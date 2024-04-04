@@ -23,7 +23,7 @@
         "jsqr": "^1.4.0",
         "md5": "^2.3.0",
         "nanoid": "^4.0.2",
-        "next-themes": "^0.2.1",
+        "next-themes": "^0.3.0",
         "react": "^18.2.0",
         "react-beautiful-dnd": "^13.1.1",
         "react-dom": "^18.2.0",
