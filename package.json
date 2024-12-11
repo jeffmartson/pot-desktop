@@ -22,7 +22,7 @@
         "jotai": "^2.4.3",
         "jsqr": "^1.4.0",
         "md5": "^2.3.0",
-        "nanoid": "^4.0.2",
+        "nanoid": "^5.0.9",
         "next-themes": "^0.2.1",
         "react": "^18.2.0",
         "react-beautiful-dnd": "^13.1.1",
