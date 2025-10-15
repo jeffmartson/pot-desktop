@@ -11,14 +11,14 @@
         "updater": "node updater/updater.mjs"
     },
     "dependencies": {
-        "@nextui-org/react": "^2.1.13",
+        "@nextui-org/react": "^2.6.11",
         "@nextui-org/theme": "^2.1.9",
         "@tauri-apps/api": "^1.5.0",
-        "crypto-js": "^4.1.1",
+        "crypto-js": "^4.2.0",
         "flag-icons": "^6.11.1",
         "framer-motion": "^10.16.4",
         "i18next": "^23.5.1",
-        "jose": "^4.15.2",
+        "jose": "^4.15.5",
         "jotai": "^2.4.3",
         "jsqr": "^1.4.0",
         "md5": "^2.3.0",
